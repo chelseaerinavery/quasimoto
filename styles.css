@@ -62,9 +62,7 @@
 }
 
 img {
-  height: 120vh;
-  width: 70vh;
-  margin: 100px auto;
+  margin: 100px;
 }
 
 i {
@@ -90,19 +88,21 @@ button {
   border-radius: 0;
   display: inline-block;
   color: black;
-  padding-right: 30px;
+  padding-right: 20px;
   padding-top: 30px;
+  margin-top: 20px;
 }
 
 #left-button {
   position: absolute;
   top: 100px;
+  left: 80px;
   margin: 10px;
 }
 
 #right-button {
   position: absolute;
   top: 100px;
-  right: 0px;
+  right: 80px;
   margin: 10px;
 }
